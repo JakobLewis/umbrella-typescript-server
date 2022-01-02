@@ -1,0 +1,14 @@
+{
+  "name": "umbrella-server",
+  "version": "1.0.0",
+  "description": "Loads and serves other typescript files. NOTE: NO GUARANTEES ON SECURITY",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jakob TL",
+  "license": "ISC"
+}
